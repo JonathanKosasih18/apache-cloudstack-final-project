@@ -1,7 +1,16 @@
 # Final Project Cloud Computing Infrastructure: Nested Virtualization on VirtualBox
 
 ## Group 2: 
-- 
+- Aisya Rivelia Azzahra (2306161864)
+- Calvin Wirathama Katoroy (2306242395)
+- Ganendra Garda Pratama (2306250642)
+- Ibnu Zaky Fauzi (2306161870)
+- Jonathan Frederick Kosasih (2306225981)
+- Mirza Adi Raffiansyah (2306210323)
+- Muhamad Dzaky Maulana (2306264401)
+- Naufal Hadi Rasikhin (2306231366)
+- Teufik Ali Hadzalic (2306267012)
+- Wesley Frederick Oh (2306202763)
 
 | Architecture Layer | Component | Details & Configuration |
 | :--- | :--- | :--- |
