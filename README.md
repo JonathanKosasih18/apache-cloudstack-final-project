@@ -1,5 +1,8 @@
 # Final Project Cloud Computing Infrastructure: Nested Virtualization on VirtualBox
 
+## Group 2: 
+- 
+
 | Architecture Layer | Component | Details & Configuration |
 | :--- | :--- | :--- |
 | **Layer 1: Physical** | Laptop Host Machine | Hosts the VirtualBox NAT Engine |
@@ -25,8 +28,7 @@
 ## Architecture Topology
 The deployment abstracts the physical hardware resources into a multi-tiered cloud environment. 
 
-![Placeholder: Diagram of CloudStack Architecture Topology](docs/images/architecture-topology.png)
-*(Note: Insert a diagram showing the relationship between the Management Server, KVM Agent, System VMs, and User Instances)*
+![Diagram of CloudStack Architecture Topology](architecture-diagram.png)
 
 ### Component Breakdown
 * **The Management Server (The Brain):** Handles the MySQL database, processes API requests, and serves the UI portal on port `8080`.
